@@ -15,6 +15,8 @@ The Various Gameshark Firmwares directory contains every known firmware in exist
 
 [Here's a video of it in action.](https://youtu.be/faCqaDdL_ds)
 
+[Featured on RetroRGB](https://www.retrorgb.com/libreshark-pro-n64-gameshark.html)
+
 PCB Thickness: 1.2 mm
 
 ![Front side of the PCB](Altera_PR.png)
